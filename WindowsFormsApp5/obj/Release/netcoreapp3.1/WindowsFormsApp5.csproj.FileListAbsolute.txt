@@ -1,0 +1,6 @@
+C:\Users\exorcist\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\netcoreapp3.1\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\exorcist\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\netcoreapp3.1\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\exorcist\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\netcoreapp3.1\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\exorcist\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\netcoreapp3.1\WindowsFormsApp5.AssemblyInfoInputs.cache
+C:\Users\exorcist\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\netcoreapp3.1\WindowsFormsApp5.AssemblyInfo.cs
+C:\Users\exorcist\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\netcoreapp3.1\WindowsFormsApp5.csproj.CoreCompileInputs.cache
